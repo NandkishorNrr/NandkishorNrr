@@ -19,7 +19,6 @@
 - ⚡ Fun fact **In my quest for knowledge, I was relentlessly curious about uncovering the mysteries behind every machine's wizardry and the logic behind every accomplished task.**
 
 <h3 align="left">Connect with me:</h3>
-
 [![Linkedin Badge](https://img.shields.io/badge/-Nandkishornrr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandkishornrr/)](https://www.linkedin.com/in/nandkishornrr/)
 [![Instagram Badge](https://img.shields.io/badge/-nandkishornrr-purple?style=flat-square&logo=instagram&logoColor=white&link=[https://instagram.com/__starlord.__/](https://www.instagram.com/nandakishornrr/))](https://www.instagram.com/nandakishornrr/)
 [![Gmail Badge](https://img.shields.io/badge/-nrr.tvans@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nrr.tvans@gmail.com)](mailto:nrr.tvans@gmail.com)
@@ -38,7 +37,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 
 ### Education :
-![leetcode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)
+![leetcode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white&link=https://www.linkedin.com/in/nandkishornrr/)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white)
