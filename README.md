@@ -19,6 +19,7 @@
 - ⚡ Fun fact **In my quest for knowledge, I was relentlessly curious about uncovering the mysteries behind every machine's wizardry and the logic behind every accomplished task.**
 
 <h3 align="left">Connect with me:</h3>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Nandkishornrr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandkishornrr/)](https://www.linkedin.com/in/nandkishornrr/)
 [![Instagram Badge](https://img.shields.io/badge/-nandkishornrr-purple?style=flat-square&logo=instagram&logoColor=white&link=[https://instagram.com/nandkishornrr/](https://www.instagram.com/nandakishornrr/))](https://www.instagram.com/nandakishornrr/)
 [![Gmail Badge](https://img.shields.io/badge/-nrr.tvans@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nrr.tvans@gmail.com)](mailto:nrr.tvans@gmail.com)
@@ -30,23 +31,22 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![REACT](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Version Control System : 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 
 ### Education :
-[![Linkedin Badge](https://img.shields.io/badge/-Nandkishornrr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandkishornrr/)]
 
-[![leetcode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white&link=https://leetcode.com/NandkishorNrr/)]
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+[![leetcode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white&link=[https://leetcode.com/NandkishorNrr/](https://www.leetcode.com/NandkishorNrr/))](https://www.leetcode.com/NandkishorNrr/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=[https://hackerrank.com/profile/NandkishorNrr](https://www.hackerrank.com/profile/NandkishorNrr))](https://www.hackerrank.com/profile/NandkishorNrr)
 ![codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=white&link=[https://auth.geeksforgeeks.org/user/nrrtvans](https://www.auth.geeksforgeeks.org/user/nrrtvans))](https://www.auth.geeksforgeeks.org/user/nrrtvans)
 ![stackoverflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D.svg?style=for-the-badge&logo=W3Schools&logoColor=white)
+
 
 ### Office :
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
